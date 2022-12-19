@@ -1,3 +1,3 @@
 # Demo
 
-This is just the first repo, for testing.
+This is just the first repo, for testing!
